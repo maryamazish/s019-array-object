@@ -1,0 +1,1 @@
+# s019-array-object
